@@ -8,7 +8,7 @@ import Program_icon_2 from "../../assets/program-icon-2.png"
 import Program_icon_3 from "../../assets/program-icon-3.png"
 function Program() {
   return (
-    <div className='parent col-12 text-center p-4'>
+    <div className='parent col-12 text-center'>
     <p>Our PROGRAM</p>
     <h3 className='mb-5'>What We Offer</h3>
     <div className='programs container d-flex justify-content-between align-items-center'>

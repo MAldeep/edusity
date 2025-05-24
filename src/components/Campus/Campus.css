@@ -1,0 +1,29 @@
+.campus{
+    margin-top: 60px;
+        border-bottom: 0.5px solid rgba(0, 15, 152, 0.3);
+    p{
+        color: #000F38;
+        font-size: 1.5rem;
+    }
+    h3{
+        font-size: 2rem;
+    }
+    .grid{
+        width: 100%;
+        img{
+            width: 20%;
+            cursor: pointer;
+        }
+    }
+    button{
+        color: white;
+        background-color: #212EA0;
+        font-size: 1.2rem;
+        transition: all 0.5s ease-in-out;
+        &:hover{
+            background-color: #000F38;
+            color: white;
+            transform: translateY(-5px);
+        }
+    }
+}

@@ -1,4 +1,8 @@
-.programs{
+.parent{
+    margin-top: 70px;
+    padding-bottom: 50px;
+    border-bottom: 0.5px solid rgba(0, 15, 152, 0.3);
+    .programs{
     .program{
         position: relative;
         flex: 0 0 30%;
@@ -28,6 +32,7 @@
             }
         }
     }
+}
 }
 .program:hover .caption{
     opacity: 1;

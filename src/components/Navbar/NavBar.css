@@ -5,4 +5,7 @@ nav{
     .logo{
         width: 180px;
     }
+    li{
+        cursor: pointer;
+    }
 }

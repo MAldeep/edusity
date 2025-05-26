@@ -33,10 +33,10 @@
         }
     }
 }
-}
-.program:hover .caption{
-    opacity: 1;
-}
-.program:hover{
-    transform: scale(1.03);
+    .program:hover .caption{
+        opacity: 1;
+    }
+    .program:hover{
+        transform: scale(1.03);
+    }
 }
